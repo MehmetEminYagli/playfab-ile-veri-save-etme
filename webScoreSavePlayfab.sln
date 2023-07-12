@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayFab", "PlayFab.csproj", "{34029088-ee88-157d-dd96-32effa49d50c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{75e04ddb-a07e-95df-914a-229255a8cd36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayFabEditorExtensions", "PlayFabEditorExtensions.csproj", "{4e11ccb3-8fea-fab5-00f1-fd0f4fedc792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayFabSDKEditor", "PlayFabSDKEditor.csproj", "{03efa526-f6e9-9129-947a-c0034dc697db}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34029088-ee88-157d-dd96-32effa49d50c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34029088-ee88-157d-dd96-32effa49d50c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75e04ddb-a07e-95df-914a-229255a8cd36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75e04ddb-a07e-95df-914a-229255a8cd36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4e11ccb3-8fea-fab5-00f1-fd0f4fedc792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4e11ccb3-8fea-fab5-00f1-fd0f4fedc792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03efa526-f6e9-9129-947a-c0034dc697db}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03efa526-f6e9-9129-947a-c0034dc697db}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
